@@ -182,12 +182,6 @@ I'm a **B.Tech Computer Science & Engineering student** (batch 2024–2028) at *
   <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Git-Divyanshi-shukla&theme=tokyonight&hide_border=true&background=0B1020"/>
 </p>
 
-## 🧊 3D Contributions
-
-<p align="center">
-  <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</p>
-
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🤝 Let's Connect
